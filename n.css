@@ -1,0 +1,35 @@
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+}
+*{
+
+	outline-width: 1px;
+	outline-color: red;
+}
+.login
+{
+    
+	color: #333399;
+	font-weight: bold;
+	max-width: 200px;
+	max-height: 200px;
+	margin-bottom: 20px;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+.password
+{
+	margin-top: 4%;
+	margin-bottom: 5%;
+}
+#submit
+{
+	color: #ff0054;
+}
+.page
+{
+	background-image: 
+}
